@@ -1,0 +1,102 @@
+
+.Requirement{
+    text-align: center;
+}
+
+.Requirement .btn{
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+.Requirement .container1{
+    width: 400px; 
+    float: left; 
+    height: 400px; 
+    background:gray; 
+    margin-left: 265px;
+}
+
+.Requirement .container1a{
+    width: 400px; 
+    float: right; 
+    height:400px; 
+    background:yellow; 
+    margin-right: 270px;
+}
+
+.Requirement .container2{
+    width: 400px; 
+    float:left; 
+    height:400px; 
+    background:red; 
+    margin-left: 266px;
+}
+
+.Requirement .container2a{
+    width: 400px; 
+    float:right; 
+    height:400px; 
+    background:yellow; 
+    margin-right: 270px;
+}
+
+.Requirement .container3{
+    width: 400px; 
+    float:left; 
+    height:400px; 
+    background:gray; 
+    margin-left: 266px;
+}
+
+.Requirement .container3a{
+    width: 400px; 
+    float:right; 
+    height:400px; 
+    background:yellow; 
+    margin-right: 270px;
+}
+
+.Requirement .container4{
+    width: 400px; 
+    float:left; 
+    height:400px; 
+    background:gray; 
+    margin-left: 266px;
+}
+
+.Requirement .container4a{
+    width: 400px; 
+    float:right; 
+    height:400px; 
+    background:yellow; 
+    margin-right: 270px;
+}
+
+.Requirement .container5{
+    width: 400px; 
+    float:left; 
+    height:400px; 
+    background:gray; 
+    margin-left: 266px;
+}
+
+.Requirement .container5a{
+    width: 400px; 
+    float: right; 
+    height:400px; 
+    background:yellow; 
+    margin-right: 270px;
+}
+
+.Requirement .btn1{
+    margin-top: 150px;
+    border-radius: 40px 40px 40px 40px;
+}
+
+.Requirement .btn2{
+    border-radius: 40px 40px 40px 40px;
+}
+
+.Requirement .btn3{
+    border-radius: 40px 40px 40px 40px;
+}

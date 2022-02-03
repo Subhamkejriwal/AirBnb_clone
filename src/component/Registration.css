@@ -1,0 +1,19 @@
+
+.container{
+    position: center;
+    right: 100px;
+    width: 500px;
+    padding: 50px;
+    background-color: whitesmoke;
+}
+
+.form-control{
+    text-align: center;
+    right: 100px;
+    width: 400px;
+    padding: 5px;
+}
+
+.form-check-label{
+    text-align: justify;
+}
