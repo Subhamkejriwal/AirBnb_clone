@@ -15,7 +15,7 @@ export default function Login() {
                         <form>
                             <div className="d-flex flex-row align-items-inline-block justify-content-center justify-content-lg-start">
                                 <p className="lead fw-normal mb-0 me-3">Sign in with</p>
-                                <a href="https://www.facebook.com" ><i className="bi bi-facebook" /></a>
+                                <a href="https://www.google.com" ><i className="bi bi-google" /></a>
                                 <a href='https://twitter.com' ><i className="bi bi-twitter" /></a>
                                 <a href='https://www.linkedin.com'><i className="bi bi-linkedin" /></a>
                             </div>
